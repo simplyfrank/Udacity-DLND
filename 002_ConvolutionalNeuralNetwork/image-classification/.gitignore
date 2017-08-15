@@ -1,0 +1,7 @@
+*.p
+*.zip
+*.ckpt
+*.
+__*
+*.p
+/cifar-10-batches-py
