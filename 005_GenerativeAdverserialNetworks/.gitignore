@@ -1,7 +1,6 @@
-*.zip
-*./data
-*.mat
-*.pkl
+__pycache__
 /data
-/__pycache__
+/checkpoints
 /.ipynb_checkpoints
+*.zip
+*.pkl

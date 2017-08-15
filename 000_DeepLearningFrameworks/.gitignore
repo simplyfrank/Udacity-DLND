@@ -1,0 +1,12 @@
+*.p
+*.zip
+*.ckpt
+*.ckpt.meta
+*.ckpt.index
+*.ckpt.*
+.
+__*
+*.p
+*.zip
+*.rar
+*.csv

@@ -1,2 +1,6 @@
-MNIST_data
-train_samples.pkl
+__pycache__
+/data
+/checkpoints
+/.ipynb_checkpoints
+*.zip
+*.pkl

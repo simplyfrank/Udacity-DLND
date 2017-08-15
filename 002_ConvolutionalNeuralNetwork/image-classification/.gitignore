@@ -1,7 +1,6 @@
-*.p
+__pycache__
+/data
+/checkpoints
+/.ipynb_checkpoints
 *.zip
-*.ckpt
-*.
-__*
-*.p
-/cifar-10-batches-py
+*.pkl
